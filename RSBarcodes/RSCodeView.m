@@ -13,8 +13,6 @@
 - (void)__init {
     self.backgroundColor = [UIColor clearColor];
     
-    self.layer.borderWidth = 1;
-    self.layer.borderColor = [[UIColor greenColor] CGColor];
 }
 
 - (id)init {
