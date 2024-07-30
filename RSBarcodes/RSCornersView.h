@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 P.D.Q. All rights reserved.
 //
 
+// Used as Openlane Seller app submodule
+
 #import <UIKit/UIKit.h>
 
 @interface RSCornersView : UIView
