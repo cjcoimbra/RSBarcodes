@@ -16,6 +16,21 @@
 #define _RSBARCODES_
 
 #pragma mark - Generator
+#import "RSCodeGenerator.h"
+#import "RSUnifiedCodeGenerator.h"
+#import "RSCode39Generator.h"
+#import "RSCode39Mod43Generator.h"
+#import "RSExtendedCode39Generator.h"
+#import "RSEANGenerator.h"
+#import "RSEAN13Generator.h"
+#import "RSEAN8Generator.h"
+#import "RSUPCEGenerator.h"
+#import "RSCode93Generator.h"
+#import "RSCode128Generator.h"
+#import "RSISBN13Generator.h"
+#import "RSISSN13Generator.h"
+#import "RSITFGenerator.h"
+#import "RSITF14Generator.h"
 #import "RSCodeView.h"
 #import "RSCodeGen.h"
 
