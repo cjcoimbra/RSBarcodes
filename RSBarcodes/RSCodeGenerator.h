@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 P.D.Q. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-
+#import <UIKit/UIKit.h>
+#import <CoreImage/CoreImage.h>
 #import <AVFoundation/AVFoundation.h>
 
 /**
