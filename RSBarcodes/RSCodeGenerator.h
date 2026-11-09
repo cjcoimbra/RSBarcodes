@@ -9,6 +9,8 @@
 #import <Foundation/Foundation.h>
 
 #import <AVFoundation/AVFoundation.h>
+#import <CoreImage/CoreImage.h>
+#import <UIKit/UIKit.h>
 
 /**
  *  Code generators are required to provide these two functions.
